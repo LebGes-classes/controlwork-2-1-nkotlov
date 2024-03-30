@@ -1,8 +1,5 @@
-// Главный класс, содержащий точку входа в программу
 public class DoublyLinkedListMain {
-    // Точка входа в программу
     public static void main(String[] args) {
-        // Создание двусвязного списка, хранящего строковые элементы
         DoublyLinkedList<String> list = new DoublyLinkedList<>();
 
         // Добавление элементов в список
